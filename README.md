@@ -1,5 +1,5 @@
 # Kbot
-
+(For the hack addon to work you need to disable antivirus)
 
 
 All-in-one application that sends custom requests to League of Legends LCU apiWorks every patch
