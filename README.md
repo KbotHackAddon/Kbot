@@ -41,3 +41,7 @@ Unicode support and customizable window size
 Force client to run without admin
 (Patched) Play any champion/skin for free (Refund exploit)
 (Patched) Free skin and free champion (Riot Girl Tristana)
+
+
+
+https://github.com/KbotHackAddon/Kbot/releases/tag/KbotDownload
